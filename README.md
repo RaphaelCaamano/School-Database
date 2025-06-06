@@ -9,7 +9,7 @@ Coded a program with a console menu that takes the input of school course inform
 |   / \                                                        |
 |Student     Employee: employeeId, dept, salary                |
 |             / \                                              |
-|         Faculty  GeneralStaff                                |
+|         Faculty  GeneralStaff                                |                    <img width="260" alt="Screenshot 2025-06-05 233233" src="https://github.com/user-attachments/assets/a8de8925-a59a-4332-88bb-1743b01be3ba" />
 |       : officeHours, id   : jobTitle, schedule               |
 |--------------------------------------------------------------|
 | Course: courseId, name, desc, credits                        |
