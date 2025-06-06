@@ -18,7 +18,7 @@ Coded a program with a console menu that takes the input of school course inform
 +--------------------------------------------------------------+
 
 
-<img width="260" alt="Screenshot 2025-06-05 233233" src="https://github.com/user-attachments/assets/cd1a6e1d-793b-48bd-9245-dcad5bc846f1" />
+![Screenshot 2025-06-05 233233](https://github.com/user-attachments/assets/6b4bce17-265e-4447-a444-8773ce02bbd7)
 
 
 
