@@ -11,7 +11,7 @@ Coded a program with a console menu that takes the input of school course inform
 |             / \                                                                                                                    |
 |        Faculty   GeneralStaff                                                                                                      |
 |       : OfficeHours, Id                                                                                                            |
-|------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|
 | Course: CourseId, CourseName, Description, Credits                                                                                 |
 |   - teaches: Faculty (1..*)                                                                                                        |
 |   - enrolled in: Student (many-to-many)                                                                                            |
