@@ -9,13 +9,16 @@ Coded a program with a console menu that takes the input of school course inform
 |   / \                                                        |
 |Student     Employee: employeeId, dept, salary                |
 |             / \                                              |
-|         Faculty  GeneralStaff                                |                    <img width="260" alt="Screenshot 2025-06-05 233233" src="https://github.com/user-attachments/assets/a8de8925-a59a-4332-88bb-1743b01be3ba" />
+|         Faculty  GeneralStaff                                |                
 |       : officeHours, id   : jobTitle, schedule               |
 |--------------------------------------------------------------|
 | Course: courseId, name, desc, credits                        |
 |   - taught by: Faculty (1..*)                                |
 |   - enrolled by: Student (0..*)                              |
 +--------------------------------------------------------------+
+
+
+<img width="260" alt="Screenshot 2025-06-05 233233" src="https://github.com/user-attachments/assets/cd1a6e1d-793b-48bd-9245-dcad5bc846f1" />
 
 
 
