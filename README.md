@@ -14,6 +14,7 @@ Coded a program with a console menu that takes the input of school course inform
            /|\                         /|\
             |                           |
             |                           |
+            
 +----------------------+     +-----------------------+     +---------------------+
 |      Employee        |     |       Student         |     |       Faculty       |
 |----------------------|     |-----------------------|     |---------------------|
@@ -24,6 +25,7 @@ Coded a program with a console menu that takes the input of school course inform
 +----------------------+     +-----------------------+     +---------------------+
             |                          |
             |                          |
+            
 +--------------------------+  +---------------------------+
 |    GeneralStaff          |  |        Course             |
 |--------------------------|  |---------------------------|
