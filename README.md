@@ -3,7 +3,7 @@ Coded a program with a console menu that takes the input of school course inform
 
 
 +------------------------------------------------------------------------------------------------------------------------------------+
-|                         School Database                                                                                              |
+|                              School Database                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------|
 | Person: PersonId, FirstName, LastName, DOB, Address, JoinDate                                                                      |
 |   / \                                                                                                                              |
