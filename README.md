@@ -27,7 +27,7 @@ Coded a program with a console menu that takes the input of school course inform
                    | - OfficeHours: String | - JobTitle: String |
                    | - FacultyId: int      | - WorkSchedule: String |
                    +----------------+   +-------------------+
-
+                   
 +--------------------------------------------------------------+
 |                       Course                                 |
 |--------------------------------------------------------------|
