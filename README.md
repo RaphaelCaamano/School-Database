@@ -3,4 +3,4 @@ Coded a program with a console menu that takes the input of school course inform
 
 
 # Information:
-The School Database is primarily programmed in: <img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="45" height="45"/>
+The School Database is primarily programmed in: <img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="50" height="50"/>
